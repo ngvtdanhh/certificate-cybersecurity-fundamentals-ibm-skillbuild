@@ -12,7 +12,7 @@ This repository documents my structured learning from the **Cybersecurity Fundam
 
 ## 📜 Certificate
 
-- 🎓 [Cybersecurity Fundamentals – IBM SkillsBuild](./cert/ibm-cybersecurity-certificate.pdf)
+- 🎓 [Cybersecurity Fundamentals – IBM SkillsBuild](./cert/IBM%20Cybersecurity%20Fundamentals.png)
 
 ---
 
