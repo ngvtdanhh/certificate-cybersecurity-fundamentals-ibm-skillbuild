@@ -95,7 +95,7 @@ This IBM SkillsBuild course gives a strong foundation in the cybersecurity lands
 
 ![Disclaimer](https://img.shields.io/badge/Use%20Responsibly-Ethical%20Hacking-orange?style=flat-square&logo=hackthebox)
 
-❗ Disclaimer
+## ❗ Disclaimer
 
 This repository is intended strictly for educational and ethical purposes only.
 By using any material or code provided here, you agree to the following:
@@ -108,7 +108,7 @@ By using any material or code provided here, you agree to the following:
 
 🔐 The author and contributors assume no liability for any damage caused by improper or illegal use.
 
-📎 See full disclaimer here: DISCLAIMER.md
+See full disclaimer here: [DISCLAIMER.md](./DISCLAIMER.md)
 
 
 ---
