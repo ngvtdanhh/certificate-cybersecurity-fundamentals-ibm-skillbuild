@@ -72,7 +72,7 @@ This repository documents my structured learning from the **Cybersecurity Fundam
 | 🧠 Learning Modules      | ![](./screenshots/ibm-modules.png) |
 | 📚 Course Overview       | ![](./screenshots/ibm-learning.png) |
 | ⭐ Learner Rating        | ![](./screenshots/ibm-rating.png) |
-| 🏷️ Certification Tag     | ![](./screenshots/ibm-tag.png) |
+| 🏷️ Tag     | ![](./screenshots/ibm-tag.png) |
 
 ---
 
