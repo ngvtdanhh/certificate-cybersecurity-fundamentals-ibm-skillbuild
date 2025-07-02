@@ -9,3 +9,6 @@ def check(pw):
     if not re.search(r'[!@#$%^&*(),.?\":{}|<>]', pw): errors.append("Missing special char")
     if "password" in pw.lower(): errors.append("Contains 'password'")
     return errors or ["Strong password"]
+
+# Example
+# print(check("MySecurePass123!"))
