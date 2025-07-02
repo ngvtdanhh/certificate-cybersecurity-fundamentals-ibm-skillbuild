@@ -93,16 +93,22 @@ This IBM SkillsBuild course gives a strong foundation in the cybersecurity lands
 
 ---
 
-## ❗ Disclaimer
+❗ Disclaimer
+This repository is intended strictly for educational and ethical purposes only.
+By using any material or code provided here, you agree to the following:
 
-All content in this repository is for **educational purposes only**.  
-By using any material here, you agree:
+❌ You will not apply any technique against systems you do not own or have explicit permission to test.
 
-- Not to apply any technique on unauthorized systems  
-- That the author holds no responsibility for misuse  
-- To use these resources ethically and legally  
+⚖️ You take full legal responsibility for your actions and any consequence resulting from the misuse of this knowledge.
 
-See [`DISCLAIMER.md`](./DISCLAIMER.md) for full terms.
+📚 All examples, scripts, and demos are intended for academic, self-study, or authorized lab use only.
+
+🔐 The author and contributors assume no liability for any damage caused by improper or illegal use.
+
+📎 See full disclaimer here: DISCLAIMER.md
+
+![Disclaimer](https://img.shields.io/badge/Use%20Responsibly-Ethical%20Hacking-orange?style=flat-square&logo=hackthebox)
+
 
 ---
 
