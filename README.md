@@ -1,6 +1,6 @@
 # 🧠 Cybersecurity Fundamentals – IBM SkillsBuild
 
-![Course](https://img.shields.io/badge/IBM-SkillsBuild-Certified-brightgreen?style=flat-square&logo=ibm)
+![Course](https://img.shields.io/badge/IBM_SkillsBuild-Certified-brightgreen?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
 ![Scope](https://img.shields.io/badge/Scope-Cybersecurity%20Basics-red?style=flat-square&logo=fortinet)
 ![Type](https://img.shields.io/badge/Type-Self--Paced-orange?style=flat-square&logo=openaccess)
